@@ -10,6 +10,7 @@
     "vite": "^2.6.13"
   },
   "dependencies": {
+    "apexcharts": "^3.32.0",
     "chart.js": "^3.6.1",
     "plotly.js-dist": "^2.6.4"
   }
